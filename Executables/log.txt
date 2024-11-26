@@ -1,0 +1,35 @@
+11/27/2024 2:30:36 AM: Starting to scrape transactions...
+11/27/2024 2:30:37 AM: Scraped 1000 transactions.
+11/27/2024 2:30:37 AM: Processing transactions to find relevant entries...
+11/27/2024 2:30:37 AM: Latest deposit found: ID 10674027 at 11/14/2024 10:52:08 AM
+11/27/2024 2:30:37 AM: Oldest deposit within 48 hours: ID 10644710 at 11/12/2024 1:15:03 PM
+11/27/2024 2:30:37 AM: Oldest withdraw found: ID 10638788 at 11/11/2024 4:37:15 PM
+11/27/2024 2:30:37 AM: Calculating balances excluding Payment Type ID 76...
+11/27/2024 2:30:37 AM: Processed withdraw ID 10638788: Subtracted 15000, new balance is -15000
+11/27/2024 2:30:37 AM: Processed deposit ID 10638782: Added 2000, new balance is -13000
+11/27/2024 2:30:37 AM: Processed deposit ID 10638780: Added 5000, new balance is -8000
+11/27/2024 2:30:37 AM: Processed deposit ID 10638779: Added 5000, new balance is -3000
+11/27/2024 2:30:37 AM: Processed deposit ID 10638778: Added 10000, new balance is 7000
+11/27/2024 2:30:37 AM: Processed deposit ID 10641026: Added 5000, new balance is 12000
+11/27/2024 2:30:37 AM: Processed deposit ID 10641025: Added 10000, new balance is 22000
+11/27/2024 2:30:37 AM: Processed deposit ID 10641148: Added 4000, new balance is 26000
+11/27/2024 2:30:37 AM: Processed deposit ID 10641247: Added 5000, new balance is 31000
+11/27/2024 2:30:37 AM: Processed deposit ID 10641413: Added 1750, new balance is 32750
+11/27/2024 2:30:37 AM: Processed deposit ID 10641712: Added 5000, new balance is 37750
+11/27/2024 2:30:37 AM: Processed deposit ID 10642382: Added 5000, new balance is 42750
+11/27/2024 2:30:37 AM: Processed deposit ID 10644710: Added 4000, new balance is 46750
+11/27/2024 2:30:37 AM: Processed deposit ID 10647012: Added 10000, new balance is 56750
+11/27/2024 2:30:37 AM: Processed deposit ID 10649046: Added 5000, new balance is 61750
+11/27/2024 2:30:37 AM: Processed deposit ID 10649045: Added 5000, new balance is 66750
+11/27/2024 2:30:37 AM: Processed deposit ID 10656083: Added 10000, new balance is 76750
+11/27/2024 2:30:37 AM: Processed withdraw ID 10656085: Subtracted 30000, new balance is 46750
+11/27/2024 2:30:37 AM: Processed deposit ID 10658812: Added 2500, new balance is 49250
+11/27/2024 2:30:37 AM: Processed deposit ID 10661417: Added 3000, new balance is 52250
+11/27/2024 2:30:37 AM: Processed deposit ID 10668366: Added 1000, new balance is 53250
+11/27/2024 2:30:37 AM: Processed deposit ID 10668364: Added 5000, new balance is 58250
+11/27/2024 2:30:37 AM: Processed deposit ID 10668763: Added 5000, new balance is 63250
+11/27/2024 2:30:37 AM: Processed deposit ID 10669543: Added 3000, new balance is 66250
+11/27/2024 2:30:37 AM: Processed deposit ID 10670387: Added 600, new balance is 66850
+11/27/2024 2:30:37 AM: Processed deposit ID 10673243: Added 10000, new balance is 76850
+11/27/2024 2:30:37 AM: Processed deposit ID 10674027: Added 10000, new balance is 86850
+11/27/2024 2:30:37 AM: Final balance: 86850
