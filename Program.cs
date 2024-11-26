@@ -40,6 +40,20 @@ namespace ScrapingLib
                 var finalBalance = transactionService.CalculateBalances(transactions, oldestWithdraw);
                 Console.WriteLine($"Final balance: {finalBalance}");
             }
+
+            Console.WriteLine();
+            // Wait for the user to press 'q' to quit the program.
+            Console.WriteLine("\rProcess Completed: Press 'q' to quit...");
+
+            // Keep running the program until the user presses 'q'.
+            while (true)
+            {
+                var key = Console.ReadKey(intercept: true).Key;
+                if (key == ConsoleKey.Q)
+                {
+                    break;
+                }
+            }
         }
     }
 }
